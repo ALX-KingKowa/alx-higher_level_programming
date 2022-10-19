@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
+=======
+>>>>>>> 6d9531e3d6659fd93217fa94b737eed66ab3bbfa
 type

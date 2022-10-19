@@ -1,3 +1,7 @@
          PROJECT TITLE
+<<<<<<< HEAD
 
 # PYTHON EVERYTHING IS OBJECT
+=======
+# EVERYTHING IS OBJECT
+>>>>>>> 6d9531e3d6659fd93217fa94b737eed66ab3bbfa
