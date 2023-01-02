@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for alphabet in range(97,123):
-    print("{:c}".format(alphabet), end='')
+for ch in range(97,123):
+    print("{:c}".format(ch), end='')
